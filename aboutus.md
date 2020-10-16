@@ -3,3 +3,7 @@ bdsqd
 
 # Hi
 ## hello
+##Noé Weissberg
+-I’m a 19 years old, French, Arts and Science student, majoring in Society and minoring in Health and Environment. 
+-I am mainly studying Psychology and Management and my main skill regarding this project is data analysis. 
+-I am a passionate NFL and NBA fan and a member of the arts society. 
